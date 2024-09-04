@@ -18,9 +18,9 @@ const Navbar = () => {
         <section className="navBar  Section ">
             <header className="header  flex ">
                 <div className="logoDiv ">
-                    <a href="#" className='logo flex'>
+                    <a href="#" className='logo flex  justify-between'>
                    
-                     <h1> <MdTravelExplore className='icon' /> smnTravels Co.</h1>
+                     <h1> <MdTravelExplore className='icon ' /> smnTravels Co.</h1>
                     </a>
                 </div>
             
