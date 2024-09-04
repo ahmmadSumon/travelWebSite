@@ -28,10 +28,9 @@ const Navbar = () => {
                 <ul className='navList flex'>
                     <li className="navItem"><a href="#" className='navLink'>Home</a></li>
                     <li className="navItem"><a href="#" className='navLink'>Package</a></li>
-                    <li className="navItem"><a href="#" className='navLink'>Shop</a></li>
                     <li className="navItem"><a href="#" className='navLink'>About</a></li>
                     <li className="navItem"><a href="#" className='navLink'>Pages</a></li>
-                    <li className="navItem"><a href="#" className='navLink'>News</a></li>
+                    <li className="navItem"><a href="#" className='navLink'>Blogs</a></li>
                     <li className="navItem"><a href="#" className='navLink'>Contact</a></li>
                     <button className='btn'>BOOK NOW</button>
                 </ul>
